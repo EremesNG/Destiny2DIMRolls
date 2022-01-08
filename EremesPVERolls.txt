@@ -1,6 +1,14 @@
 title:EremesPVERolls
 description:Perks de armas que quiero
 
+// Eyasluna - God pve (god-pve)
+//notes: Eremes god pve tags:god-pve
+dimwishlist:item=235827225&perks=1926090094,1561002382,247725512,3523296417
+dimwishlist:item=235827225&perks=1926090094,1561002382,1428297954,3523296417
+dimwishlist:item=235827225&perks=1926090093,1561002382,247725512,3523296417
+dimwishlist:item=235827225&perks=1926090093,1561002382,1428297954,3523296417
+
+
 // Falling Guillotine - God pve (god-pve)
 //notes: Eremes god pve tags:god-pve
 dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3913600130
